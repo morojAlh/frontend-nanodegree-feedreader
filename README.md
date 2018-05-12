@@ -24,17 +24,17 @@ To load and run testing project follow the steps:
 ## Test Suites
 
 There are a four test suites in this project.
-* ###RSS Feeds
+* ### RSS Feeds
 1. Test if feeds are defined.
 2. Test if feeds have defined URL and not empty.
 3. Test if feeds have defined name and not empty.
 
-* ###The menu
+* ### The menu
 1. Test if the menu is hidden by default.
 2. Test if the menu is hidden/show when clicking menu icon.
 
-* ###Initial Entries
+* ### Initial Entries
 1. Test if the feed has at least one entry.
 
-* ###New Feed Selection
+* ### New Feed Selection
 1. Test if the content actually changes when lode a new feed.
