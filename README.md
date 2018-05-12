@@ -23,7 +23,7 @@ To load and run testing project follow the steps:
 
 ## Test Suites
 
-There are a four test suites in this project.
+There are four test suites in this project.
 * ### RSS Feeds
 1. Test if feeds are defined.
 2. Test if feeds have defined URL and not empty.
