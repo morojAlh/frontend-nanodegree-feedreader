@@ -98,7 +98,7 @@ $(function() {
          */
 
          beforeEach(function(done) {
-           // Test the feed with index 1, I'm testing with index 0 and 2
+           // Test the feed with index 1, I'm testing with other index also.
            loadFeed(1, done);
         });
 
