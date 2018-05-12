@@ -1,12 +1,12 @@
 # Feed Reader Testing
 
 ## Table of Contents
-* [Introduction](#introduction-to-the-game)
+* [Introduction](#introduction)
 * [Instructions](#instructions)
-* [Test Suites](#test Suites)
+* [Test Suites](#test_suites)
 
 
-# Introduction
+## Introduction
 
 This project is for use [Jasmine](https://jasmine.github.io)testing framework.Learn how to use Jasmine to write a number of tests against a pre-existing application. These will test the underlying business logic of the application as well as the event handling and DOM manipulation. Testing is an important part of the development process.
 
@@ -25,16 +25,16 @@ To load and run testing project follow the steps:
 
 There are a four test suites in this project.
 * RSS Feeds
-  1. Test if feeds are defined.
-  2. Test if feeds have defined URL and not empty.
-  3. Test if feeds have defined name and not empty.
+1. Test if feeds are defined.
+2. Test if feeds have defined URL and not empty.
+3. Test if feeds have defined name and not empty.
 
 * The menu
-  1. Test if the menu is hidden by default.
-  2. Test if the menu is hidden/show when clicking menu icon.
+1. Test if the menu is hidden by default.
+2. Test if the menu is hidden/show when clicking menu icon.
 
 * Initial Entries
-  1. Test if the feed has at least one entry.
+1. Test if the feed has at least one entry.
 
 * New Feed Selection
-  1. Test if the content actually changes when lode a new feed.
+1. Test if the content actually changes when lode a new feed.
