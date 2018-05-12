@@ -3,7 +3,7 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Instructions](#instructions)
-* [Test Suites](#test_suites)
+* [Test Suites](#test-suites)
 
 
 ## Introduction
