@@ -14,6 +14,7 @@ This project is for use [Jasmine](https://jasmine.github.io)testing framework.Le
 
 To load and run testing project follow the steps:
   - Clone the project in the folder you want
+  
     ```
     git clone https://github.com/morojAlh/frontend-nanodegree-feedreader.git
     ```
